@@ -26,14 +26,14 @@ Over six years of experience with ArcGIS software and Adobe Illustrator applicab
 ## Education
 
 **Master of Community and Regional Planning**
-__University of Oregon__
-`2010 - 2012`
+_University of Oregon_
+`2012`
 
 - Transportation and GIS
 
 **Bachelor of Arts, Philosophy**
 _University of Wisconsin, Madison_
-`June 1661 - now`
+`2009`
 
 
 
@@ -46,19 +46,11 @@ Barnes E., & Schlossberg, M. (2013). [Improving A Cyclist and Pedestrian Environ
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Oct 2017 -->
 
 
