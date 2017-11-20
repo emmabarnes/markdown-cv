@@ -15,11 +15,11 @@ Urban Planning, GIS, Web Design.
 
 ## Currently
 
-GIS and web design freelance work while learning Ruby and Javascript.
+GIS and web design freelancer. Learning Python and about relational databases. Trained urban and regional planner.
 
-### Specialized in
+### Overview
 
-Over six years of experience with ArcGIS software and Adobe Illustrator applicable to map production, cartography, geospatial analysis, data modeling, and editing. Demonstrated strengths in data visualization and strategic planning. Learns software quickly, excels independently or collaboratively, and advances in a fast-paced environment. Strives to add value by taking initiative and identifying opportunities for workflow improvement. Excellent working knowledge of international cartographic conventions, and possesses a strong design sense and an eye for detail.
+Over six years of experience with ArcGIS software and Adobe Illustrator applicable to map production, cartography, geospatial analysis, data modeling, and editing. Demonstrated strengths in static data visualization and strategic planning. Learns software quickly, excels independently or collaboratively, and advances in a fast-paced environment. Strives to add value by taking initiative and identifying opportunities for workflow improvement. Excellent working knowledge of international cartographic conventions, and possesses a strong design sense and eye for detail.
 
 
 
@@ -37,9 +37,8 @@ _University of Wisconsin, Madison_
 
 
 
-## Publications
+## Publication
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 Barnes E., & Schlossberg, M. (2013). [Improving A Cyclist and Pedestrian Environment While Maintaining Vehicle Throughput: A Pre- And Post-Construction Street Analysis](http://trrjournalonline.trb.org/doi/abs/10.3141/2393-10). Transportation Research Record: Journal of the Transportation Research Board, No. 2393, 85-94. DOI 10.3141/2393-10.
 
 
